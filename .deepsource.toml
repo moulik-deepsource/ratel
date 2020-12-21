@@ -11,3 +11,6 @@ enabled = true
     "browser",
     "jest"
   ]
+  dependency_file_paths = [
+  'client/'
+  ]
